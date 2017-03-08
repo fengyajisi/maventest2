@@ -30,8 +30,8 @@
       <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="250">
+              <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -672,7 +672,7 @@
       <workItem from="1488802936746" duration="2086000" />
       <workItem from="1488853558085" duration="3711000" />
       <workItem from="1488883523560" duration="599000" />
-      <workItem from="1488936847285" duration="1990000" />
+      <workItem from="1488936847285" duration="2481000" />
     </task>
     <servers />
   </component>
@@ -709,7 +709,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10314000" />
+    <option name="totallyTimeSpent" value="10805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
@@ -881,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="250">
+          <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -14,7 +14,8 @@ public class MyFirstTest {
 
         WebDriver driver = new FirefoxDriver();
     driver.navigate().to("http://www.google.com");
-    Assert.assertTrue("title is:",driver.getTitle().startsWith("Google"));
+    Assert.assertTrue("title is:",driver.getTitle().startsWith("Google-selenium"));
+    System.out.print("This is a little change for the first jenkins build");
     driver.close();
     driver.quit();
     }
